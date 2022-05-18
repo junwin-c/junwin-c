@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi There 👋
+
+![Junwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwin-c&show_icons=true&theme=codeSTACKr) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junwin-c&layout=compact&theme=codeSTACKr&hide=html,scss,css&hide_border=true)](https://github.com/junwin-c/github-readme-stats)
 
 <!--
 **junwin-c/junwin-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
