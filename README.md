@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=junwin-c&show_icons=true&theme=codeSTACKr)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junwin-c&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junwin-c&layout=compact&theme=codeSTACKr&hide=html,scss,css&hide_border=true)](https://github.com/junwin-c/github-readme-stats)
 
 <!--
